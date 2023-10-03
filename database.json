@@ -17,6 +17,10 @@
     "https://github.com/Elliott1807/ElliottHartnametag.git:ElliottHartnametag.groovy": [
       "https://github.com/Elliott1807/ElliottHartnametag.git",
       "ElliottHartnametag.groovy"
+    ],
+    "https://github.com/Elliott1807/sosarduino.git:sos arduino.groovy": [
+      "https://github.com/Elliott1807/sosarduino.git",
+      "sos arduino.groovy"
     ]
   },
   "BowlerStudioConfigs": {
